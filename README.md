@@ -1,3 +1,3 @@
-# Fluxible Template
+# The Next Facebook
 
-Use this template to get started with fluxible. This is an ES5 version of what's created using generator-fluxible.
+Becoming a billionare is easy! I just need to find someone to build my amazing idea.
