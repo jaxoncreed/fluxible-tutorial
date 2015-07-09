@@ -1,7 +1,7 @@
 var React = require('react');
 var NavLink = require('fluxible-router').NavLink;
 
-var Feed = React.createClass({
+var NavBar = React.createClass({
     render() {
         return (
             <p>
@@ -13,4 +13,4 @@ var Feed = React.createClass({
     }
 });
 
-module.exports = Feed;
+module.exports = NavBar;
